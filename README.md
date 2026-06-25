@@ -32,9 +32,8 @@ Set reminders for tasks
 Mark tasks as complete
 Delete tasks
 View all tasks
-
-✔ All tasks are stored in a MySQL database
-✔ CRUD operations are fully supported:
+ All tasks are stored in a MySQL database
+CRUD operations are fully supported:
 
 Create
 Read
@@ -99,7 +98,7 @@ SELECT (View Tasks)
 UPDATE (Mark Complete)
 DELETE (Remove Task)
 
-✔ Ensures persistent data storage
+Ensures persistent data storage
 
 6. USER INTERFACE (GUI REQUIREMENT)
 
@@ -119,12 +118,12 @@ Styled panels for usability
 
 The system successfully demonstrates:
 
-✔ Chatbot interaction
-✔ NLP command recognition
-✔ Task management with database
-✔ Quiz system with scoring
-✔ Activity logging
-✔ GUI responsiveness
+Chatbot interaction
+NLP command recognition
+Task management with database
+Quiz system with scoring
+Activity logging
+GUI responsiveness
 
 8. INSTALLATION GUIDE
 Requirements:
